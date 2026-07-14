@@ -1,301 +1,301 @@
 Emotion,Text,RoBERTa_Prediction,BERT_Prediction
-disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
+annoyance,"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance,anger
+disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
 excitement,"Wow, our throughput just doubled after implementing your microservices strategy!",surprise,joy
+admiration,Your customer success team has been absolutely incredible throughout this rollout.,admiration,joy
+remorse,I am deeply sorry for causing that service disruption by pushing the unverified code branch.,remorse,sadness
+desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
+disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
+curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
+relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
+relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
+desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
+disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
+anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
 optimism,I am confident that this new microservice paradigm will solve our long-term scaling issues.,optimism,joy
-surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
-desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
-pride,Our engineering squad built this entire automated pipeline in less than forty-eight hours.,neutral,joy
+remorse,I am deeply sorry for causing that service disruption by pushing the unverified code branch.,remorse,sadness
+disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
 sadness,It's really disheartening to see our deployment fail after spending weeks preparing it.,sadness,sadness
-relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
-realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
-annoyance,"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance,anger
-amusement,"Haha, that was a funny misunderstanding, I thought the server was down but it was unplugged!",amusement,surprise
+anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
+remorse,I am deeply sorry for causing that service disruption by pushing the unverified code branch.,remorse,sadness
+embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
+caring,"Please take your time looking into the logs, I know your team is under a lot of pressure today.",caring,joy
 curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
 fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
-love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
-disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
-love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
-gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
-disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
-admiration,Your customer success team has been absolutely incredible throughout this rollout.,admiration,joy
-love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
-admiration,Your customer success team has been absolutely incredible throughout this rollout.,admiration,joy
-excitement,"Wow, our throughput just doubled after implementing your microservices strategy!",surprise,joy
-desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
+sadness,It's really disheartening to see our deployment fail after spending weeks preparing it.,sadness,sadness
 neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
-realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
-gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
-disgust,"Ugh, the messy code structure in this third-party SDK is absolutely repulsive.",disgust,anger
+neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
+love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
 anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
-annoyance,"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance,anger
-fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
-nervousness,"My hand is shaking a bit as I hit deploy, I really hope this doesn't drop connections.",optimism,fear
-fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
-amusement,"Haha, that was a funny misunderstanding, I thought the server was down but it was unplugged!",amusement,surprise
 desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
-anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
-confusion,"Wait, if the database connection failed, why is the frontend reporting a status 200?",curiosity,fear
-disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
+surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
+admiration,Your customer success team has been absolutely incredible throughout this rollout.,admiration,joy
+fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
 remorse,I am deeply sorry for causing that service disruption by pushing the unverified code branch.,remorse,sadness
-excitement,"Wow, our throughput just doubled after implementing your microservices strategy!",surprise,joy
 optimism,I am confident that this new microservice paradigm will solve our long-term scaling issues.,optimism,joy
-disgust,"Ugh, the messy code structure in this third-party SDK is absolutely repulsive.",disgust,anger
+anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
 embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
-realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
-pride,Our engineering squad built this entire automated pipeline in less than forty-eight hours.,neutral,joy
-grief,"Our business took a massive, devastating blow when that unbacked database corrupted.",sadness,sadness
-disgust,"Ugh, the messy code structure in this third-party SDK is absolutely repulsive.",disgust,anger
-amusement,"Haha, that was a funny misunderstanding, I thought the server was down but it was unplugged!",amusement,surprise
-pride,Our engineering squad built this entire automated pipeline in less than forty-eight hours.,neutral,joy
-surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
-annoyance,"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance,anger
-surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
-neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
-joy,"Everything is running so smoothly now, our whole team is incredibly happy!",joy,joy
-grief,"Our business took a massive, devastating blow when that unbacked database corrupted.",sadness,sadness
-love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
-disgust,"Ugh, the messy code structure in this third-party SDK is absolutely repulsive.",disgust,anger
-relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
-caring,"Please take your time looking into the logs, I know your team is under a lot of pressure today.",caring,joy
-relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
-joy,"Everything is running so smoothly now, our whole team is incredibly happy!",joy,joy
-embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
-joy,"Everything is running so smoothly now, our whole team is incredibly happy!",joy,joy
 approval,"Yes, that resolution plan sounds perfectly reasonable to me.",approval,joy
-amusement,"Haha, that was a funny misunderstanding, I thought the server was down but it was unplugged!",amusement,surprise
-grief,"Our business took a massive, devastating blow when that unbacked database corrupted.",sadness,sadness
-disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
-embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
-neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
-optimism,I am confident that this new microservice paradigm will solve our long-term scaling issues.,optimism,joy
-excitement,"Wow, our throughput just doubled after implementing your microservices strategy!",surprise,joy
-surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
-desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
-surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
-realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
-disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
-grief,"Our business took a massive, devastating blow when that unbacked database corrupted.",sadness,sadness
-embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
-joy,"Everything is running so smoothly now, our whole team is incredibly happy!",joy,joy
-fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
-confusion,"Wait, if the database connection failed, why is the frontend reporting a status 200?",curiosity,fear
-pride,Our engineering squad built this entire automated pipeline in less than forty-eight hours.,neutral,joy
-remorse,I am deeply sorry for causing that service disruption by pushing the unverified code branch.,remorse,sadness
-disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
 gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
-realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
-disgust,"Ugh, the messy code structure in this third-party SDK is absolutely repulsive.",disgust,anger
-desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
-joy,"Everything is running so smoothly now, our whole team is incredibly happy!",joy,joy
-realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
-admiration,Your customer success team has been absolutely incredible throughout this rollout.,admiration,joy
-desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
-anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
-surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
-admiration,Your customer success team has been absolutely incredible throughout this rollout.,admiration,joy
-neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
-anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
-disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
-desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
-realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
-pride,Our engineering squad built this entire automated pipeline in less than forty-eight hours.,neutral,joy
-gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
-annoyance,"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance,anger
-anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
-approval,"Yes, that resolution plan sounds perfectly reasonable to me.",approval,joy
-neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
-realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
-relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
-excitement,"Wow, our throughput just doubled after implementing your microservices strategy!",surprise,joy
-fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
-amusement,"Haha, that was a funny misunderstanding, I thought the server was down but it was unplugged!",amusement,surprise
-approval,"Yes, that resolution plan sounds perfectly reasonable to me.",approval,joy
-annoyance,"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance,anger
-curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
-caring,"Please take your time looking into the logs, I know your team is under a lot of pressure today.",caring,joy
-excitement,"Wow, our throughput just doubled after implementing your microservices strategy!",surprise,joy
-curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
-approval,"Yes, that resolution plan sounds perfectly reasonable to me.",approval,joy
-disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
-neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
+nervousness,"My hand is shaking a bit as I hit deploy, I really hope this doesn't drop connections.",optimism,fear
 disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
-grief,"Our business took a massive, devastating blow when that unbacked database corrupted.",sadness,sadness
-disgust,"Ugh, the messy code structure in this third-party SDK is absolutely repulsive.",disgust,anger
-surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
-pride,Our engineering squad built this entire automated pipeline in less than forty-eight hours.,neutral,joy
-anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
-nervousness,"My hand is shaking a bit as I hit deploy, I really hope this doesn't drop connections.",optimism,fear
-admiration,Your customer success team has been absolutely incredible throughout this rollout.,admiration,joy
-annoyance,"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance,anger
-caring,"Please take your time looking into the logs, I know your team is under a lot of pressure today.",caring,joy
-love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
-approval,"Yes, that resolution plan sounds perfectly reasonable to me.",approval,joy
-love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
-desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
-pride,Our engineering squad built this entire automated pipeline in less than forty-eight hours.,neutral,joy
-sadness,It's really disheartening to see our deployment fail after spending weeks preparing it.,sadness,sadness
-remorse,I am deeply sorry for causing that service disruption by pushing the unverified code branch.,remorse,sadness
-remorse,I am deeply sorry for causing that service disruption by pushing the unverified code branch.,remorse,sadness
-anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
+amusement,"Haha, that was a funny misunderstanding, I thought the server was down but it was unplugged!",amusement,surprise
+relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
+curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
 joy,"Everything is running so smoothly now, our whole team is incredibly happy!",joy,joy
-nervousness,"My hand is shaking a bit as I hit deploy, I really hope this doesn't drop connections.",optimism,fear
-neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
-embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
-realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
-love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
-nervousness,"My hand is shaking a bit as I hit deploy, I really hope this doesn't drop connections.",optimism,fear
-amusement,"Haha, that was a funny misunderstanding, I thought the server was down but it was unplugged!",amusement,surprise
-curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
-confusion,"Wait, if the database connection failed, why is the frontend reporting a status 200?",curiosity,fear
-love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
-realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
-amusement,"Haha, that was a funny misunderstanding, I thought the server was down but it was unplugged!",amusement,surprise
-amusement,"Haha, that was a funny misunderstanding, I thought the server was down but it was unplugged!",amusement,surprise
-annoyance,"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance,anger
-sadness,It's really disheartening to see our deployment fail after spending weeks preparing it.,sadness,sadness
-remorse,I am deeply sorry for causing that service disruption by pushing the unverified code branch.,remorse,sadness
-curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
-anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
-nervousness,"My hand is shaking a bit as I hit deploy, I really hope this doesn't drop connections.",optimism,fear
-relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
-fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
+disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
 approval,"Yes, that resolution plan sounds perfectly reasonable to me.",approval,joy
-neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
-embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
-relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
-nervousness,"My hand is shaking a bit as I hit deploy, I really hope this doesn't drop connections.",optimism,fear
+gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
 pride,Our engineering squad built this entire automated pipeline in less than forty-eight hours.,neutral,joy
-embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
-sadness,It's really disheartening to see our deployment fail after spending weeks preparing it.,sadness,sadness
-nervousness,"My hand is shaking a bit as I hit deploy, I really hope this doesn't drop connections.",optimism,fear
-amusement,"Haha, that was a funny misunderstanding, I thought the server was down but it was unplugged!",amusement,surprise
-relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
-confusion,"Wait, if the database connection failed, why is the frontend reporting a status 200?",curiosity,fear
+approval,"Yes, that resolution plan sounds perfectly reasonable to me.",approval,joy
+curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
+gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
+anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
+love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
 anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
 confusion,"Wait, if the database connection failed, why is the frontend reporting a status 200?",curiosity,fear
-desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
+realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
+sadness,It's really disheartening to see our deployment fail after spending weeks preparing it.,sadness,sadness
+annoyance,"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance,anger
+love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
+love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
+joy,"Everything is running so smoothly now, our whole team is incredibly happy!",joy,joy
+disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
+fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
+confusion,"Wait, if the database connection failed, why is the frontend reporting a status 200?",curiosity,fear
+grief,"Our business took a massive, devastating blow when that unbacked database corrupted.",sadness,sadness
+nervousness,"My hand is shaking a bit as I hit deploy, I really hope this doesn't drop connections.",optimism,fear
+grief,"Our business took a massive, devastating blow when that unbacked database corrupted.",sadness,sadness
 admiration,Your customer success team has been absolutely incredible throughout this rollout.,admiration,joy
+optimism,I am confident that this new microservice paradigm will solve our long-term scaling issues.,optimism,joy
+confusion,"Wait, if the database connection failed, why is the frontend reporting a status 200?",curiosity,fear
+curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
 disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
 optimism,I am confident that this new microservice paradigm will solve our long-term scaling issues.,optimism,joy
-neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
-relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
-disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
-grief,"Our business took a massive, devastating blow when that unbacked database corrupted.",sadness,sadness
-relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
-annoyance,"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance,anger
-approval,"Yes, that resolution plan sounds perfectly reasonable to me.",approval,joy
-sadness,It's really disheartening to see our deployment fail after spending weeks preparing it.,sadness,sadness
-sadness,It's really disheartening to see our deployment fail after spending weeks preparing it.,sadness,sadness
-sadness,It's really disheartening to see our deployment fail after spending weeks preparing it.,sadness,sadness
-confusion,"Wait, if the database connection failed, why is the frontend reporting a status 200?",curiosity,fear
-sadness,It's really disheartening to see our deployment fail after spending weeks preparing it.,sadness,sadness
-sadness,It's really disheartening to see our deployment fail after spending weeks preparing it.,sadness,sadness
-disgust,"Ugh, the messy code structure in this third-party SDK is absolutely repulsive.",disgust,anger
-excitement,"Wow, our throughput just doubled after implementing your microservices strategy!",surprise,joy
-curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
-grief,"Our business took a massive, devastating blow when that unbacked database corrupted.",sadness,sadness
-surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
-caring,"Please take your time looking into the logs, I know your team is under a lot of pressure today.",caring,joy
-disgust,"Ugh, the messy code structure in this third-party SDK is absolutely repulsive.",disgust,anger
-disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
-neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
-desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
-fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
-gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
-love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
-neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
-neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
-gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
-disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
-realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
-confusion,"Wait, if the database connection failed, why is the frontend reporting a status 200?",curiosity,fear
-remorse,I am deeply sorry for causing that service disruption by pushing the unverified code branch.,remorse,sadness
-joy,"Everything is running so smoothly now, our whole team is incredibly happy!",joy,joy
-gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
-disgust,"Ugh, the messy code structure in this third-party SDK is absolutely repulsive.",disgust,anger
-excitement,"Wow, our throughput just doubled after implementing your microservices strategy!",surprise,joy
-joy,"Everything is running so smoothly now, our whole team is incredibly happy!",joy,joy
-annoyance,"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance,anger
-surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
-embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
-approval,"Yes, that resolution plan sounds perfectly reasonable to me.",approval,joy
-neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
-disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
-caring,"Please take your time looking into the logs, I know your team is under a lot of pressure today.",caring,joy
 admiration,Your customer success team has been absolutely incredible throughout this rollout.,admiration,joy
-disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
-gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
-approval,"Yes, that resolution plan sounds perfectly reasonable to me.",approval,joy
-optimism,I am confident that this new microservice paradigm will solve our long-term scaling issues.,optimism,joy
-annoyance,"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance,anger
-surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
-realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
-pride,Our engineering squad built this entire automated pipeline in less than forty-eight hours.,neutral,joy
-surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
-annoyance,"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance,anger
-disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
-curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
-caring,"Please take your time looking into the logs, I know your team is under a lot of pressure today.",caring,joy
-pride,Our engineering squad built this entire automated pipeline in less than forty-eight hours.,neutral,joy
-disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
-joy,"Everything is running so smoothly now, our whole team is incredibly happy!",joy,joy
-curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
-love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
-joy,"Everything is running so smoothly now, our whole team is incredibly happy!",joy,joy
-sadness,It's really disheartening to see our deployment fail after spending weeks preparing it.,sadness,sadness
-embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
-curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
+relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
 grief,"Our business took a massive, devastating blow when that unbacked database corrupted.",sadness,sadness
-desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
-embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
-embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
-embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
-anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
-disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
 disgust,"Ugh, the messy code structure in this third-party SDK is absolutely repulsive.",disgust,anger
-optimism,I am confident that this new microservice paradigm will solve our long-term scaling issues.,optimism,joy
-realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
-fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
-surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
+disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
 caring,"Please take your time looking into the logs, I know your team is under a lot of pressure today.",caring,joy
 relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
+grief,"Our business took a massive, devastating blow when that unbacked database corrupted.",sadness,sadness
+disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
 amusement,"Haha, that was a funny misunderstanding, I thought the server was down but it was unplugged!",amusement,surprise
-curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
-disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
-fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
-admiration,Your customer success team has been absolutely incredible throughout this rollout.,admiration,joy
-desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
-neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
-amusement,"Haha, that was a funny misunderstanding, I thought the server was down but it was unplugged!",amusement,surprise
-confusion,"Wait, if the database connection failed, why is the frontend reporting a status 200?",curiosity,fear
-curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
-approval,"Yes, that resolution plan sounds perfectly reasonable to me.",approval,joy
-gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
+optimism,I am confident that this new microservice paradigm will solve our long-term scaling issues.,optimism,joy
 surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
-neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
 love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
-anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
-joy,"Everything is running so smoothly now, our whole team is incredibly happy!",joy,joy
-neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
 fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
+love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
 embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
-realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
+neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
+embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
 love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
-approval,"Yes, that resolution plan sounds perfectly reasonable to me.",approval,joy
-excitement,"Wow, our throughput just doubled after implementing your microservices strategy!",surprise,joy
-desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
-surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
 nervousness,"My hand is shaking a bit as I hit deploy, I really hope this doesn't drop connections.",optimism,fear
-fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
-grief,"Our business took a massive, devastating blow when that unbacked database corrupted.",sadness,sadness
-realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
-annoyance,"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance,anger
-caring,"Please take your time looking into the logs, I know your team is under a lot of pressure today.",caring,joy
-anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
-curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
-sadness,It's really disheartening to see our deployment fail after spending weeks preparing it.,sadness,sadness
-desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
 remorse,I am deeply sorry for causing that service disruption by pushing the unverified code branch.,remorse,sadness
 caring,"Please take your time looking into the logs, I know your team is under a lot of pressure today.",caring,joy
+desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
+disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
+confusion,"Wait, if the database connection failed, why is the frontend reporting a status 200?",curiosity,fear
+embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
+optimism,I am confident that this new microservice paradigm will solve our long-term scaling issues.,optimism,joy
+fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
+joy,"Everything is running so smoothly now, our whole team is incredibly happy!",joy,joy
+neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
+love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
+disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
+relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
+excitement,"Wow, our throughput just doubled after implementing your microservices strategy!",surprise,joy
+excitement,"Wow, our throughput just doubled after implementing your microservices strategy!",surprise,joy
+curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
+disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
+fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
+grief,"Our business took a massive, devastating blow when that unbacked database corrupted.",sadness,sadness
+joy,"Everything is running so smoothly now, our whole team is incredibly happy!",joy,joy
+disgust,"Ugh, the messy code structure in this third-party SDK is absolutely repulsive.",disgust,anger
+gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
+nervousness,"My hand is shaking a bit as I hit deploy, I really hope this doesn't drop connections.",optimism,fear
+disgust,"Ugh, the messy code structure in this third-party SDK is absolutely repulsive.",disgust,anger
+surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
+realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
+curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
+remorse,I am deeply sorry for causing that service disruption by pushing the unverified code branch.,remorse,sadness
+caring,"Please take your time looking into the logs, I know your team is under a lot of pressure today.",caring,joy
+excitement,"Wow, our throughput just doubled after implementing your microservices strategy!",surprise,joy
+curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
+amusement,"Haha, that was a funny misunderstanding, I thought the server was down but it was unplugged!",amusement,surprise
+disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
+admiration,Your customer success team has been absolutely incredible throughout this rollout.,admiration,joy
+disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
+disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
+approval,"Yes, that resolution plan sounds perfectly reasonable to me.",approval,joy
+surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
+desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
+grief,"Our business took a massive, devastating blow when that unbacked database corrupted.",sadness,sadness
+surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
+remorse,I am deeply sorry for causing that service disruption by pushing the unverified code branch.,remorse,sadness
+disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
+neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
+caring,"Please take your time looking into the logs, I know your team is under a lot of pressure today.",caring,joy
+optimism,I am confident that this new microservice paradigm will solve our long-term scaling issues.,optimism,joy
+optimism,I am confident that this new microservice paradigm will solve our long-term scaling issues.,optimism,joy
+disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
+desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
+surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
+disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
+disgust,"Ugh, the messy code structure in this third-party SDK is absolutely repulsive.",disgust,anger
+annoyance,"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance,anger
+surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
+approval,"Yes, that resolution plan sounds perfectly reasonable to me.",approval,joy
+pride,Our engineering squad built this entire automated pipeline in less than forty-eight hours.,neutral,joy
+optimism,I am confident that this new microservice paradigm will solve our long-term scaling issues.,optimism,joy
+nervousness,"My hand is shaking a bit as I hit deploy, I really hope this doesn't drop connections.",optimism,fear
+annoyance,"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance,anger
+caring,"Please take your time looking into the logs, I know your team is under a lot of pressure today.",caring,joy
+excitement,"Wow, our throughput just doubled after implementing your microservices strategy!",surprise,joy
+anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
+embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
+sadness,It's really disheartening to see our deployment fail after spending weeks preparing it.,sadness,sadness
+disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
+relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
+optimism,I am confident that this new microservice paradigm will solve our long-term scaling issues.,optimism,joy
+embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
+caring,"Please take your time looking into the logs, I know your team is under a lot of pressure today.",caring,joy
+neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
+gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
+realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
+anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
+sadness,It's really disheartening to see our deployment fail after spending weeks preparing it.,sadness,sadness
+fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
+fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
+fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
+nervousness,"My hand is shaking a bit as I hit deploy, I really hope this doesn't drop connections.",optimism,fear
+optimism,I am confident that this new microservice paradigm will solve our long-term scaling issues.,optimism,joy
 gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
 neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
+anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
+fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
+excitement,"Wow, our throughput just doubled after implementing your microservices strategy!",surprise,joy
+relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
+excitement,"Wow, our throughput just doubled after implementing your microservices strategy!",surprise,joy
+annoyance,"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance,anger
+disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
+disgust,"Ugh, the messy code structure in this third-party SDK is absolutely repulsive.",disgust,anger
+disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
+annoyance,"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance,anger
+pride,Our engineering squad built this entire automated pipeline in less than forty-eight hours.,neutral,joy
+confusion,"Wait, if the database connection failed, why is the frontend reporting a status 200?",curiosity,fear
+gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
+optimism,I am confident that this new microservice paradigm will solve our long-term scaling issues.,optimism,joy
+joy,"Everything is running so smoothly now, our whole team is incredibly happy!",joy,joy
+remorse,I am deeply sorry for causing that service disruption by pushing the unverified code branch.,remorse,sadness
+annoyance,"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance,anger
+pride,Our engineering squad built this entire automated pipeline in less than forty-eight hours.,neutral,joy
+excitement,"Wow, our throughput just doubled after implementing your microservices strategy!",surprise,joy
+love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
+desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
+anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
+anger,This is completely unacceptable! Your API outage has been costing us thousands every hour!,disapproval,anger
+confusion,"Wait, if the database connection failed, why is the frontend reporting a status 200?",curiosity,fear
+realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
+caring,"Please take your time looking into the logs, I know your team is under a lot of pressure today.",caring,joy
+disgust,"Ugh, the messy code structure in this third-party SDK is absolutely repulsive.",disgust,anger
+joy,"Everything is running so smoothly now, our whole team is incredibly happy!",joy,joy
+disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
+relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
+surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
+realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
+remorse,I am deeply sorry for causing that service disruption by pushing the unverified code branch.,remorse,sadness
+fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
+disgust,"Ugh, the messy code structure in this third-party SDK is absolutely repulsive.",disgust,anger
+disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
+relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
+approval,"Yes, that resolution plan sounds perfectly reasonable to me.",approval,joy
+optimism,I am confident that this new microservice paradigm will solve our long-term scaling issues.,optimism,joy
+surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
+grief,"Our business took a massive, devastating blow when that unbacked database corrupted.",sadness,sadness
+gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
+nervousness,"My hand is shaking a bit as I hit deploy, I really hope this doesn't drop connections.",optimism,fear
+optimism,I am confident that this new microservice paradigm will solve our long-term scaling issues.,optimism,joy
+relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
+love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
+sadness,It's really disheartening to see our deployment fail after spending weeks preparing it.,sadness,sadness
+embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
+disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
+desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
+grief,"Our business took a massive, devastating blow when that unbacked database corrupted.",sadness,sadness
+embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
+nervousness,"My hand is shaking a bit as I hit deploy, I really hope this doesn't drop connections.",optimism,fear
+disapproval,I don't think deprecating that API version so quickly is a smart business decision.,disapproval,joy
+realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
+relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
+fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
+admiration,Your customer success team has been absolutely incredible throughout this rollout.,admiration,joy
+approval,"Yes, that resolution plan sounds perfectly reasonable to me.",approval,joy
+caring,"Please take your time looking into the logs, I know your team is under a lot of pressure today.",caring,joy
+relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
+pride,Our engineering squad built this entire automated pipeline in less than forty-eight hours.,neutral,joy
+disgust,"Ugh, the messy code structure in this third-party SDK is absolutely repulsive.",disgust,anger
+caring,"Please take your time looking into the logs, I know your team is under a lot of pressure today.",caring,joy
+realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
+love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
+desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
+gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
+disgust,"Ugh, the messy code structure in this third-party SDK is absolutely repulsive.",disgust,anger
+disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
+realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
+joy,"Everything is running so smoothly now, our whole team is incredibly happy!",joy,joy
+relief,"Whew, thank goodness the database backup restored perfectly without any data loss.",gratitude,joy
+neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
+realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
+desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
+sadness,It's really disheartening to see our deployment fail after spending weeks preparing it.,sadness,sadness
+love,"I absolutely love working with your development platform, it makes my life so easy.",love,joy
+surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
+neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
+optimism,I am confident that this new microservice paradigm will solve our long-term scaling issues.,optimism,joy
+admiration,Your customer success team has been absolutely incredible throughout this rollout.,admiration,joy
+confusion,"Wait, if the database connection failed, why is the frontend reporting a status 200?",curiosity,fear
+admiration,Your customer success team has been absolutely incredible throughout this rollout.,admiration,joy
+admiration,Your customer success team has been absolutely incredible throughout this rollout.,admiration,joy
+gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
+pride,Our engineering squad built this entire automated pipeline in less than forty-eight hours.,neutral,joy
+grief,"Our business took a massive, devastating blow when that unbacked database corrupted.",sadness,sadness
+surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
+caring,"Please take your time looking into the logs, I know your team is under a lot of pressure today.",caring,joy
+admiration,Your customer success team has been absolutely incredible throughout this rollout.,admiration,joy
+desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
+gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
+admiration,Your customer success team has been absolutely incredible throughout this rollout.,admiration,joy
+disgust,"Ugh, the messy code structure in this third-party SDK is absolutely repulsive.",disgust,anger
+embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
+embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
+pride,Our engineering squad built this entire automated pipeline in less than forty-eight hours.,neutral,joy
+curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
+amusement,"Haha, that was a funny misunderstanding, I thought the server was down but it was unplugged!",amusement,surprise
+grief,"Our business took a massive, devastating blow when that unbacked database corrupted.",sadness,sadness
+gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
+disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
+gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
+gratitude,"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude,joy
+nervousness,"My hand is shaking a bit as I hit deploy, I really hope this doesn't drop connections.",optimism,fear
+embarrassment,"Oh no, I realize now that I was running the test script against our production database, my bad.",realization,anger
+pride,Our engineering squad built this entire automated pipeline in less than forty-eight hours.,neutral,joy
+remorse,I am deeply sorry for causing that service disruption by pushing the unverified code branch.,remorse,sadness
+amusement,"Haha, that was a funny misunderstanding, I thought the server was down but it was unplugged!",amusement,surprise
+approval,"Yes, that resolution plan sounds perfectly reasonable to me.",approval,joy
+grief,"Our business took a massive, devastating blow when that unbacked database corrupted.",sadness,sadness
+admiration,Your customer success team has been absolutely incredible throughout this rollout.,admiration,joy
+fear,I am terrified that a security breach might happen if we leave this port open.,fear,fear
+realization,"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization,anger
+confusion,"Wait, if the database connection failed, why is the frontend reporting a status 200?",curiosity,fear
+curiosity,What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity,joy
+amusement,"Haha, that was a funny misunderstanding, I thought the server was down but it was unplugged!",amusement,surprise
+annoyance,"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance,anger
+approval,"Yes, that resolution plan sounds perfectly reasonable to me.",approval,joy
+surprise,Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise,joy
+neutral,The current server deployment is running on version two dot four dot zero.,neutral,joy
+desire,Our team desperately needs a tool that can orchestrate multiple agents at once.,desire,joy
+pride,Our engineering squad built this entire automated pipeline in less than forty-eight hours.,neutral,joy
+disappointment,"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment,fear
+caring,"Please take your time looking into the logs, I know your team is under a lot of pressure today.",caring,joy
