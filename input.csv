@@ -1,0 +1,57 @@
+text,actual_emotion
+Your customer success team has been absolutely incredible throughout this rollout.,admiration
+"I must say, the architecture design of your platform is remarkably elegant.",admiration
+"Haha, that was a funny misunderstanding, I thought the server was down but it was unplugged!",amusement
+"Well, that is one hilarious way to find out a configuration parameter is case-sensitive!",amusement
+This is completely unacceptable! Your API outage has been costing us thousands every hour!,anger
+"I demand to speak to a senior supervisor immediately, your microservice keeps crashing!",anger
+"The interface keeps refreshing every time I try to save a layout, it's getting irritating.",annoyance
+Why does it take four clicks just to see the server status logs?,annoyance
+"Yes, that resolution plan sounds perfectly reasonable to me.",approval
+I completely agree with your recommendation to scale the cluster size.,approval
+"Please take your time looking into the logs, I know your team is under a lot of pressure today.",caring
+"Don't worry about the late hour, we appreciate you staying online to help us.",caring
+"Wait, if the database connection failed, why is the frontend reporting a status 200?",confusion
+I am looking at the metrics dashboard but I don't understand what these charts mean.,confusion
+What kind of throughput optimization can we expect if we upgrade to the premium tier?,curiosity
+Is there a way to integrate this webhook directly with our Slack notifications?,curiosity
+Our team desperately needs a tool that can orchestrate multiple agents at once.,desire
+We are really looking forward to using your autonomous AI workflows when they launch.,desire
+"I was really hoping this update would fix the background processing bottleneck, but it didn't.",disappointment
+It's a shame that the standard tier doesn't include the custom metrics exporter.,disappointment
+I don't think deprecating that API version so quickly is a smart business decision.,disapproval
+That billing adjustment doesn't seem fair considering the duration of the outage.,disapproval
+"Ugh, the messy code structure in this third-party SDK is absolutely repulsive.",disgust
+This whole system integration is an absolute disaster to deal with.,disgust
+"Oh no, I realize now that I was running the test script against our production database, my bad.",embarrassment
+"I feel so stupid, I accidentally copy-pasted the wrong authentication secret key.",embarrassment
+"Wow, our throughput just doubled after implementing your microservices strategy!",excitement
+"Oh my god, this autonomous pipeline works flawlessly! This is incredible!",excitement
+I am terrified that a security breach might happen if we leave this port open.,fear
+What happens if our primary region goes down? Will we lose all customer data?,fear
+"Thank you so much for hopping on a quick call to debug this with me, you saved my day.",gratitude
+"Your guidance on configuring the multi-agent system was incredibly helpful, thanks!",gratitude
+"Our business took a massive, devastating blow when that unbacked database corrupted.",grief
+This crash has completely ruined everything we built over the last quarter.,grief
+"Everything is running so smoothly now, our whole team is incredibly happy!",joy
+I'm delighted to inform you that the deployment went off without a single error!,joy
+"I absolutely love working with your development platform, it makes my life so easy.",love
+Your clean API design is a pure joy to work with day in and day out.,love
+"My hand is shaking a bit as I hit deploy, I really hope this doesn't drop connections.",nervousness
+I am a bit uneasy about executing this manual database query without a backup script.,nervousness
+I am confident that this new microservice paradigm will solve our long-term scaling issues.,optimism
+"Things are looking up, the error rate has dropped significantly over the past hour.",optimism
+Our engineering squad built this entire automated pipeline in less than forty-eight hours.,pride
+We are very proud to state that our application maintains a 99.99% uptime record.,pride
+"Ah, I see what's happening now! The environment variable wasn't getting injected properly.",realization
+Now it makes sense why the cron job kept failing at exactly midnight every night.,realization
+"Whew, thank goodness the database backup restored perfectly without any data loss.",relief
+"Thank god, I thought we lost the encryption keys but they were securely cached.",relief
+I am deeply sorry for causing that service disruption by pushing the unverified code branch.,remorse
+We truly regret the oversight in our initial security architecture assessment.,remorse
+It's really disheartening to see our deployment fail after spending weeks preparing it.,sadness
+It's sad that we have to retire this legacy service after it served us well for years.,sadness
+Oh wow! I didn't expect the server response time to drop to five milliseconds!,surprise
+"Unbelievable, the system automatically self-healed before our alert system even triggered!",surprise
+The current server deployment is running on version two dot four dot zero.,neutral
+I am calling to confirm if the scheduled maintenance window is still set for Sunday.,neutral

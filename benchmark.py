@@ -3,7 +3,7 @@ import random
 from transformers import pipeline
 import plotly.express as px
 
-print("⚡ Generating comprehensive business call evaluation dataset...")
+print("Generating comprehensive business call evaluation dataset...")
 
 business_call_scenarios = {
     "admiration": ["Your customer success team has been absolutely incredible throughout this rollout."],
@@ -43,12 +43,12 @@ for _ in range(300):
     expanded_rows.append({"Emotion": emotion, "Text": text})
 
 test_df = pd.DataFrame(expanded_rows)
-print(f"✅ Generated dataset with {len(test_df)} rows.")
+print(f"Generated dataset with {len(test_df)} rows.")
 
-print("🧠 Loading RoBERTa (SamLowe/roberta-base-go_emotions)...")
+print("Loading RoBERTa (SamLowe/roberta-base-go_emotions)...")
 roberta_model = pipeline('text-classification', model='SamLowe/roberta-base-go_emotions')
 
-print("🧠 Loading BERT (bhadresh-savani/bert-base-uncased-emotion)...")
+print("Loading BERT (bhadresh-savani/bert-base-uncased-emotion)...")
 bert_model = pipeline('text-classification', model='bhadresh-savani/bert-base-uncased-emotion')
 
 def get_roberta_emotion(text):
@@ -59,14 +59,14 @@ def get_bert_emotion(text):
     try: return bert_model(text)[0]['label']
     except: return "error"
 
-print("🏃‍♂️ Running RoBERTa inference...")
+print("Running RoBERTa inference...")
 test_df['RoBERTa_Prediction'] = test_df['Text'].apply(get_roberta_emotion)
 
-print("🏃‍♂️ Running BERT inference...")
+print("Running BERT inference...")
 test_df['BERT_Prediction'] = test_df['Text'].apply(get_bert_emotion)
 
 agreement_rate = (test_df['RoBERTa_Prediction'] == test_df['BERT_Prediction']).mean() * 100
-print(f"📊 Model Agreement: BERT and RoBERTa predicted the exact same label {agreement_rate:.2f}% of the time.")
+print(f"Model Agreement: BERT and RoBERTa predicted the exact same label {agreement_rate:.2f}% of the time.")
 
 melted_df = test_df.melt(
     id_vars=['Text', 'Emotion'], 
@@ -80,7 +80,7 @@ fig = px.histogram(
     title='Comparison of Predicted Emotion Distribution: BERT vs RoBERTa'
 )
 fig.write_html("comparison.html")
-print("📊 Interactive visualization saved successfully as 'comparison.html'!")
+print("Interactive visualization saved successfully as 'comparison.html'!")
 
 test_df.to_csv("business_call_evaluation_results.csv", index=False)
-print("💾 Raw text classifications saved to 'business_call_evaluation_results.csv'!")
+print("Raw text classifications saved to 'business_call_evaluation_results.csv'!")
